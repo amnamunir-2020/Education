@@ -1,0 +1,197 @@
+#vc_templates-editor-button {
+    display: flex;
+    flex-wrap: wrap;
+    color: white;
+    width: auto;
+    align-items: center;
+    padding: 14px 15px;
+    flex-direction: row;
+    text-decoration: none;
+}
+#vc_templates-editor-button i {
+    position: relative;
+    top: auto;
+    left: auto;
+    margin: 0 10px 0 0;
+    transform: none !important;
+}
+#vc_templates-editor-button::after {
+    content: "Add Template";
+    font-size: 16px;
+}
+.vc_ui-panel-header-heading {
+    margin-bottom: 16px !important;
+}
+.vc_ui-template-panel-header-container .vc_ui-panel-header-actions {
+    display: none !important;
+}
+.wp-core-ui .button-group.filter-button-group {
+    top: 18px !important;
+    flex: 0 0 20%;
+    display: block;
+    width: 15% !important;
+    box-sizing: border-box;
+    position: sticky;
+    position: -webkit-sticky;
+    align-self: flex-start;
+}
+.wp-core-ui .button-group.filter-button-group>.button {
+    display: block;
+    width: 100%;
+    text-align: left;
+    float: none !important;
+    border: 0 !important;
+    outline: none !important;
+    box-shadow: none !important;
+    border-radius: 0 !important;
+    background-color: white;
+    transition: all 0.3s;
+    position: relative;
+    padding: 10px 16px;
+    font-size: 15px;
+    color: #444444;
+}
+.wp-core-ui .button-group.filter-button-group>.button.is-checked,
+.wp-core-ui .button-group.filter-button-group>.button:focus,
+.wp-core-ui .button-group.filter-button-group>.button:active,
+.wp-core-ui .button-group.filter-button-group>.button:hover {
+    box-shadow: none !important;
+    background: #0473aa;
+    color: white;
+}
+
+.filter-button-group .templates-count {
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    background: #dddddd;
+    width: 22px;
+    height: 22px;
+    display: flex;
+    margin: -11px 0 0;
+    transition: background-color 0.3s;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    font-weight: 700;
+    font-size: 10px;
+    color: #1a1a1a;
+}
+
+.filter-button-group .button.is-checked .templates-count,
+.filter-button-group .button:hover .templates-count {
+    background: white;
+    color: #23282d;
+}
+
+.stl_templates_list .vc_ui-template-list.vc_ui-list-bar {
+    margin: 0;
+}
+
+.stl_templates_list {
+    flex: 0 0 80%;
+    width: 85% !important;
+    box-sizing: border-box;
+    background: #cccccc;
+}
+.stl_templates_list.vc_col-sm-12 {
+    float: none !important;
+}
+.stl_templates_list .vc_ui-template-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+.stl_templates_list .vc_ui-template-list .vc_ui-template {
+    flex: 0 0 25%;
+    max-width: 25%;
+    padding: 12px;
+    box-sizing: border-box;
+    position: relative;
+}
+@media only screen and ( max-width: 1600px ){
+    .stl_templates_list .vc_ui-template-list .vc_ui-template {
+        flex: 0 0 33.333333%;
+        max-width: 33.333333%;
+    }
+}
+@media only screen and ( max-width: 1440px ){
+    .stl_templates_list .vc_ui-template-list .vc_ui-template {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+}
+@media only screen and ( max-width: 767px ){
+    .stl_templates_list .vc_ui-template-list .vc_ui-template {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+}
+.stl_templates_list .vc_ui-template-list .vc_ui-template .vc_ui-list-bar-item {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.stl_templates_list .vc_ui-template-list .vc_ui-template .template-info-box {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s;
+    background-color: rgba(255,255,255, 0.8);
+    visibility: hidden;
+    opacity: 0;
+}
+.stl_templates_list .vc_ui-template-list .vc_ui-template img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+.stl_templates_list .vc_ui-template-list .vc_ui-template:hover img {
+    box-shadow: 0 0 15px rgba(0,0,0, 0.15);
+}
+.stl_templates_list .vc_ui-template-list .vc_ui-template .template-name {
+    margin: 15px 0 20px;
+    transition: all 0.3s;
+    font-weight: 700;
+    font-size: 18px;
+    z-index: 10;
+}
+.stl_templates_list .vc_ui-template-list .vc_ui-template .button-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.stl_templates_list .vc_ui-template-list .vc_ui-template .vc_ui-control-button,
+.stl_templates_list .vc_ui-template-list .vc_ui-template .link-button {
+    display: inline-block;
+    vertical-align: top;
+    padding: 12px 24px;
+    margin: 5px;
+    min-width: 100px;
+    text-align: center;
+    box-sizing: border-box;
+    border-radius: 5px;
+    background-color: green;
+    text-decoration: none;
+    font-weight: 700;
+    opacity: 1;
+    font-size: 14px;
+    color: white;
+}
+.stl_templates_list .vc_ui-template-list .vc_ui-template .link-button {
+    background-color: #002e5b;
+}
+.stl_templates_list .vc_ui-template-list .vc_ui-template .vc_ui-control-button:hover,
+.stl_templates_list .vc_ui-template-list .vc_ui-template .link-button:hover {
+    opacity: 0.8;
+}
+.stl_templates_list .vc_ui-template-list .vc_ui-template:hover .template-name,
+.stl_templates_list .vc_ui-template-list .vc_ui-template:hover .template-info-box {
+    opacity: 1;
+    visibility: visible;
+}

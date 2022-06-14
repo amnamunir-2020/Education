@@ -1,0 +1,678 @@
+{
+  "logo": "",
+  "dark_logo": "",
+  "logo_width": "170",
+  "logo_height": "",
+  "logo_margin": {
+    "top": "",
+    "right": "",
+    "bottom": "",
+    "left": "",
+    "unit": "px"
+  },
+  "enable_preloader": true,
+  "site_skin": "skin_default",
+  "site_skin_base_color": "#002e5b",
+  "site_skin_secondary_color": "#6c98e1",
+  "site_skin_third_color": "#fde428",
+  "site_boxed": "",
+  "bg_image": "bg_img_1",
+  "custom_bg_image": "",
+  "google_api_key": "",
+  "enable_recaptcha": "",
+  "recaptcha_public_key": "",
+  "recaptcha_secret_key": "",
+  "header_builder": "pear_builder",
+  "top_bar": true,
+  "wpml_switcher": false,
+  "wpml_switcher_style": "wpml_theme",
+  "wpml_switcher_mobile": true,
+  "wc_topbar_cart_hide": false,
+  "offices_contact": [
+    {
+      "top_bar_contact_office": "New York Office",
+      "top_bar_contact_address": "1010 New York, NY 10018 US.",
+      "top_bar_contact_address_icon": {
+        "icon": "stm-marker",
+        "color": "#fde428",
+        "size": 15
+      },
+      "top_bar_contact_email": "info@consultingwp.com",
+      "top_bar_contact_email_icon": {
+        "icon": "",
+        "color": "#000",
+        "size": 15
+      },
+      "top_bar_contact_hours": "Mon - Sat 8.00 - 18.00. Sunday CLOSED",
+      "top_bar_contact_hours_icon": {
+        "icon": "stm-clock6",
+        "color": "#fde428",
+        "size": 15
+      },
+      "top_bar_contact_phone": "212 386 5575",
+      "top_bar_contact_phone_icon": {
+        "icon": "stm-phone",
+        "color": "#fde428",
+        "size": 15
+      }
+    },
+    {
+      "top_bar_contact_office": "London Office",
+      "top_bar_contact_address": "15 Baker Str., London, HA018 UK.",
+      "top_bar_contact_address_icon": {
+        "icon": "stm-marker",
+        "color": "#fde428",
+        "size": 15
+      },
+      "top_bar_contact_email": "info@consultingwp.com",
+      "top_bar_contact_email_icon": {
+        "icon": "",
+        "color": "#000",
+        "size": 15
+      },
+      "top_bar_contact_hours": "Mon - Sat 8.00 - 18.00.\u00a0Sunday CLOSED",
+      "top_bar_contact_hours_icon": {
+        "icon": "stm-clock6",
+        "color": "#fde428",
+        "size": 15
+      },
+      "top_bar_contact_phone": "44 382 5555",
+      "top_bar_contact_phone_icon": {
+        "icon": "stm-phone",
+        "color": "#fde428",
+        "size": 15
+      }
+    }
+  ],
+  "header_style": "header_style_2",
+  "mega_menu": true,
+  "sticky_menu": "",
+  "wc_cart_hide": true,
+  "mobile_grid": "landscape",
+  "header_copyright": "<p>Theme by &lt;a href='http:\/\/stylemixthemes.com\/' target='_blank'&gt;Stylemix Themes&lt;\/a&gt; &lt;br&gt;2021 \u00a9 All rights reserved.<\/p>",
+  "header_information_notice": "",
+  "header_address": "1010 Avenue of the Moon New York, NY 10018 US.",
+  "header_address_icon": {
+    "icon": "stm-marker",
+    "color": "#fde428",
+    "size": 15
+  },
+  "header_working_hours": "Write us <a href=\"mailto:info@consulting.com\">info@consulting.com<\/a>",
+  "header_working_hours_icon": {
+    "icon": "stm-clock",
+    "color": "#fde428",
+    "size": 15
+  },
+  "header_phone": "<strong>212 386 5575<\/strong><span data-scroll-to=\"request-call-back\">Request call back<\/span>",
+  "header_phone_icon": {
+    "icon": "stm-phone_13_2",
+    "color": "#fde428",
+    "size": 15
+  },
+  "mobile_socials_show_hide": "",
+  "header_socials_information_notice": "",
+  "header_socials": [
+    "facebook",
+    "twitter",
+    "google-plus"
+  ],
+  "page_settings_information_notice": "",
+  "metabox_header_inverse": "",
+  "metabox_disable_title_box": "",
+  "metabox_enable_transparent": "",
+  "metabox_disable_title": "",
+  "metabox_title_box_title_color": "",
+  "metabox_title_box_title_line_color": "",
+  "metabox_title_box_bg_image": "",
+  "metabox_title_box_bg_position": "",
+  "metabox_title_box_bg_size": "",
+  "metabox_title_box_bg_repeat": "no-repeat",
+  "metabox_disable_breadcrumbs": "",
+  "metabox_enable_header_transparent": "",
+  "metabox_content_bg_transparent": "",
+  "metabox_footer_copyright_border_t": "",
+  "blog_layout": "list",
+  "blog_sidebar_type": "wp",
+  "blog_wp_sidebar": "consulting-right-sidebar",
+  "blog_vc_sidebar": "",
+  "blog_sidebar_position": "right",
+  "event_sidebar_type": "vc",
+  "event_wp_sidebar": "",
+  "event_vc_sidebar": "1096",
+  "event_terms_conditions": "I agree with the all additional <a href='#'>Terms and Conditions<\/a>",
+  "shop_sidebar_type": "wp",
+  "shop_wp_sidebar": "consulting-shop",
+  "shop_vc_sidebar": "",
+  "shop_sidebar_position": "right",
+  "shop_products_per_page": "9",
+  "post_type_services_information_notice": "",
+  "post_type_services_enable_archive": true,
+  "post_type_services_enable_single": true,
+  "post_type_services_title": "Service",
+  "post_type_services_plural": "Services",
+  "post_type_services_all_items": "All Services",
+  "post_type_services_rewrite": "service",
+  "post_type_services_icon": "dashicons-clipboard",
+  "post_type_careers_information_notice": "",
+  "post_type_careers_enable_archive": true,
+  "post_type_careers_enable_single": true,
+  "post_type_careers_title": "Vacancy",
+  "post_type_careers_plural": "Vacancies",
+  "post_type_careers_all_items": "All Vacancies",
+  "post_type_careers_rewrite": "careers_archive",
+  "post_type_careers_icon": "dashicons-id",
+  "post_type_staff_information_notice": "",
+  "post_type_staff_enable_archive": true,
+  "post_type_staff_enable_single": true,
+  "post_type_staff_title": "Staff",
+  "post_type_staff_plural": "Staff",
+  "post_type_staff_all_items": "All Staff",
+  "post_type_staff_rewrite": "staff",
+  "post_type_staff_icon": "dashicons-groups",
+  "post_type_works_information_notice": "",
+  "post_type_works_enable_archive": true,
+  "post_type_works_enable_single": true,
+  "post_type_works_title": "Work",
+  "post_type_works_plural": "Works",
+  "post_type_works_all_items": "All Works",
+  "post_type_works_rewrite": "works",
+  "post_type_works_icon": "dashicons-portfolio",
+  "post_type_testimonials_information_notice": "",
+  "post_type_testimonials_enable_archive": true,
+  "post_type_testimonials_title": "Testimonial",
+  "post_type_testimonials_plural": "Testimonials",
+  "post_type_testimonials_all_items": "All Testimonials",
+  "post_type_testimonials_rewrite": "testimonials",
+  "post_type_testimonials_icon": "dashicons-testimonial",
+  "post_type_events_information_notice": "",
+  "post_type_events_enable_archive": true,
+  "post_type_events_enable_single": true,
+  "post_type_events_title": "Events",
+  "post_type_events_plural": "Events",
+  "post_type_events_all_items": "All Events",
+  "post_type_events_rewrite": "events",
+  "post_type_events_icon": "dashicons-clipboard",
+  "post_type_portfolio_information_notice": "",
+  "post_type_portfolio_enable_archive": true,
+  "post_type_portfolio_enable_single": true,
+  "post_type_portfolio_title": "Portfolio",
+  "post_type_portfolio_plural": "Portfolio",
+  "post_type_portfolio_all_items": "All Portfolio",
+  "post_type_portfolio_rewrite": "portfolio",
+  "post_type_portfolio_icon": "dashicons-clipboard",
+  "stocks_information_notice": "",
+  "stocks": "",
+  "stocks_ticker": "",
+  "stocks_transient": "3600",
+  "footer_show_hide": "",
+  "footer_style": "style_1",
+  "footer_custom_settings": "",
+  "footer_custom_settings_color_text": "",
+  "footer_custom_settings_color_link": "",
+  "footer_custom_settings_color_link_hover": "",
+  "footer_custom_settings_color_bg": "",
+  "footer_custom_settings_bg_img": "",
+  "footer_custom_settings_bg_overlay": "",
+  "footer_logo_show_hide": true,
+  "footer_logo": "",
+  "footer_logo_width": "",
+  "footer_logo_height": "",
+  "footer_show_hide_socials": false,
+  "footer_socials_information_notice": "",
+  "footer_socials": [
+    "facebook",
+    "twitter",
+    "google-plus"
+  ],
+  "footer_sidebar_count": 3,
+  "footer_text": "",
+  "footer_copyright": "Copyright &copy; 2012-2021 Consulting Theme by &lt;a href=&#039;https:\/\/themeforest.net\/item\/consulting-business-finance-wordpress-theme\/14740561&#039; target=&#039;_blank&#039;&gt;Stylemix Themes&lt;\/a&gt;. All rights reserved",
+  "footer_current_year": true,
+  "body_font_family": {
+    "font-family": "Roboto",
+    "google-weight": "regular",
+    "font-weight": 400,
+    "font-style": "normal",
+    "subset": "latin",
+    "color": "",
+    "font-size": "14",
+    "line-height": "26",
+    "text-align": "left",
+    "word-spacing": "0",
+    "text-transform": "normal",
+    "letter-spacing": "0",
+    "backup-font": "Arial",
+    "font-data": {
+      "family": "Roboto",
+      "variants": [
+        "100",
+        "100italic",
+        "300",
+        "300italic",
+        "regular",
+        "italic",
+        "500",
+        "500italic",
+        "700",
+        "700italic",
+        "900",
+        "900italic"
+      ],
+      "subsets": [
+        "cyrillic",
+        "cyrillic-ext",
+        "greek",
+        "greek-ext",
+        "latin",
+        "latin-ext",
+        "vietnamese"
+      ],
+      "version": "v20",
+      "lastModified": "2019-07-24",
+      "files": {
+        "100": "http:\/\/fonts.gstatic.com\/s\/roboto\/v20\/KFOkCnqEu92Fr1MmgWxPKTM1K9nz.ttf",
+        "300": "http:\/\/fonts.gstatic.com\/s\/roboto\/v20\/KFOlCnqEu92Fr1MmSU5vAx05IsDqlA.ttf",
+        "500": "http:\/\/fonts.gstatic.com\/s\/roboto\/v20\/KFOlCnqEu92Fr1MmEU9vAx05IsDqlA.ttf",
+        "700": "http:\/\/fonts.gstatic.com\/s\/roboto\/v20\/KFOlCnqEu92Fr1MmWUlvAx05IsDqlA.ttf",
+        "900": "http:\/\/fonts.gstatic.com\/s\/roboto\/v20\/KFOlCnqEu92Fr1MmYUtvAx05IsDqlA.ttf",
+        "100italic": "http:\/\/fonts.gstatic.com\/s\/roboto\/v20\/KFOiCnqEu92Fr1Mu51QrIzcXLsnzjYk.ttf",
+        "300italic": "http:\/\/fonts.gstatic.com\/s\/roboto\/v20\/KFOjCnqEu92Fr1Mu51TjARc9AMX6lJBP.ttf",
+        "regular": "http:\/\/fonts.gstatic.com\/s\/roboto\/v20\/KFOmCnqEu92Fr1Me5WZLCzYlKw.ttf",
+        "italic": "http:\/\/fonts.gstatic.com\/s\/roboto\/v20\/KFOkCnqEu92Fr1Mu52xPKTM1K9nz.ttf",
+        "500italic": "http:\/\/fonts.gstatic.com\/s\/roboto\/v20\/KFOjCnqEu92Fr1Mu51S7ABc9AMX6lJBP.ttf",
+        "700italic": "http:\/\/fonts.gstatic.com\/s\/roboto\/v20\/KFOjCnqEu92Fr1Mu51TzBhc9AMX6lJBP.ttf",
+        "900italic": "http:\/\/fonts.gstatic.com\/s\/roboto\/v20\/KFOjCnqEu92Fr1Mu51TLBBc9AMX6lJBP.ttf"
+      },
+      "category": "sans-serif",
+      "kind": "webfonts#webfont"
+    }
+  },
+  "secondary_font_family": {
+    "font-family": "Kumbh Sans",
+    "google-weight": "700",
+    "font-weight": "700",
+    "font-style": "normal",
+    "subset": "latin",
+    "color": "",
+    "font-size": "14",
+    "line-height": "26",
+    "text-align": "left",
+    "word-spacing": "0",
+    "text-transform": "normal",
+    "letter-spacing": "0",
+    "backup-font": "Arial",
+    "font-data": {
+      "family": "Kumbh Sans",
+      "variants": [
+        "300",
+        "regular",
+        "700"
+      ],
+      "subsets": [
+        "latin",
+        "latin-ext"
+      ],
+      "version": "v1",
+      "lastModified": "2020-09-02",
+      "files": {
+        "300": "http:\/\/fonts.gstatic.com\/s\/kumbhsans\/v1\/c4mm1n92AsfhuCq6tVsagit_3KKVXUv8Los.ttf",
+        "700": "http:\/\/fonts.gstatic.com\/s\/kumbhsans\/v1\/c4mm1n92AsfhuCq6tVsagjt43KKVXUv8Los.ttf",
+        "regular": "http:\/\/fonts.gstatic.com\/s\/kumbhsans\/v1\/c4ml1n92AsfhuCq6tVsauodX-Kq-QUI.ttf"
+      },
+      "category": "sans-serif",
+      "kind": "webfonts#webfont"
+    }
+  },
+  "typography_p": {
+    "font-family": "Open Sans",
+    "google-weight": "regular",
+    "font-weight": 400,
+    "font-style": "normal",
+    "subset": "latin",
+    "color": "",
+    "font-size": "14",
+    "line-height": "26",
+    "text-align": "left",
+    "word-spacing": "0",
+    "text-transform": "normal",
+    "letter-spacing": "0",
+    "backup-font": "Arial",
+    "font-data": {
+      "family": "Open Sans",
+      "variants": [
+        "300",
+        "300italic",
+        "regular",
+        "italic",
+        "600",
+        "600italic",
+        "700",
+        "700italic",
+        "800",
+        "800italic"
+      ],
+      "subsets": [
+        "cyrillic",
+        "cyrillic-ext",
+        "greek",
+        "greek-ext",
+        "latin",
+        "latin-ext",
+        "vietnamese"
+      ],
+      "version": "v18",
+      "lastModified": "2020-09-15",
+      "files": {
+        "300": "http:\/\/fonts.gstatic.com\/s\/opensans\/v18\/mem5YaGs126MiZpBA-UN_r8-VeJoCqeDjg.ttf",
+        "600": "http:\/\/fonts.gstatic.com\/s\/opensans\/v18\/mem5YaGs126MiZpBA-UNirk-VeJoCqeDjg.ttf",
+        "700": "http:\/\/fonts.gstatic.com\/s\/opensans\/v18\/mem5YaGs126MiZpBA-UN7rg-VeJoCqeDjg.ttf",
+        "800": "http:\/\/fonts.gstatic.com\/s\/opensans\/v18\/mem5YaGs126MiZpBA-UN8rs-VeJoCqeDjg.ttf",
+        "300italic": "http:\/\/fonts.gstatic.com\/s\/opensans\/v18\/memnYaGs126MiZpBA-UFUKWyV-hsKKKTjrPW.ttf",
+        "regular": "http:\/\/fonts.gstatic.com\/s\/opensans\/v18\/mem8YaGs126MiZpBA-U1UpcaXcl0Aw.ttf",
+        "italic": "http:\/\/fonts.gstatic.com\/s\/opensans\/v18\/mem6YaGs126MiZpBA-UFUJ0ef8xkA76a.ttf",
+        "600italic": "http:\/\/fonts.gstatic.com\/s\/opensans\/v18\/memnYaGs126MiZpBA-UFUKXGUehsKKKTjrPW.ttf",
+        "700italic": "http:\/\/fonts.gstatic.com\/s\/opensans\/v18\/memnYaGs126MiZpBA-UFUKWiUOhsKKKTjrPW.ttf",
+        "800italic": "http:\/\/fonts.gstatic.com\/s\/opensans\/v18\/memnYaGs126MiZpBA-UFUKW-U-hsKKKTjrPW.ttf"
+      },
+      "category": "sans-serif",
+      "kind": "webfonts#webfont"
+    }
+  },
+  "typography_h1": {
+    "font-family": "Kumbh Sans",
+    "google-weight": "700",
+    "font-weight": "700",
+    "font-style": "normal",
+    "subset": "latin",
+    "color": "",
+    "font-size": "45",
+    "line-height": "60",
+    "text-align": "left",
+    "word-spacing": "0",
+    "text-transform": "none",
+    "letter-spacing": "0",
+    "backup-font": "Arial",
+    "font-data": {
+      "family": "Kumbh Sans",
+      "variants": [
+        "300",
+        "regular",
+        "700"
+      ],
+      "subsets": [
+        "latin",
+        "latin-ext"
+      ],
+      "version": "v1",
+      "lastModified": "2020-09-02",
+      "files": {
+        "300": "http:\/\/fonts.gstatic.com\/s\/kumbhsans\/v1\/c4mm1n92AsfhuCq6tVsagit_3KKVXUv8Los.ttf",
+        "700": "http:\/\/fonts.gstatic.com\/s\/kumbhsans\/v1\/c4mm1n92AsfhuCq6tVsagjt43KKVXUv8Los.ttf",
+        "regular": "http:\/\/fonts.gstatic.com\/s\/kumbhsans\/v1\/c4ml1n92AsfhuCq6tVsauodX-Kq-QUI.ttf"
+      },
+      "category": "sans-serif",
+      "kind": "webfonts#webfont"
+    }
+  },
+  "typography_h2": {
+    "font-family": "Kumbh Sans",
+    "google-weight": "700",
+    "font-weight": "700",
+    "font-style": "normal",
+    "subset": "latin",
+    "color": "",
+    "font-size": "36",
+    "line-height": "45",
+    "text-align": "left",
+    "word-spacing": "0",
+    "text-transform": "none",
+    "letter-spacing": "0",
+    "backup-font": "Arial",
+    "font-data": {
+      "family": "Kumbh Sans",
+      "variants": [
+        "300",
+        "regular",
+        "700"
+      ],
+      "subsets": [
+        "latin",
+        "latin-ext"
+      ],
+      "version": "v1",
+      "lastModified": "2020-09-02",
+      "files": {
+        "300": "http:\/\/fonts.gstatic.com\/s\/kumbhsans\/v1\/c4mm1n92AsfhuCq6tVsagit_3KKVXUv8Los.ttf",
+        "700": "http:\/\/fonts.gstatic.com\/s\/kumbhsans\/v1\/c4mm1n92AsfhuCq6tVsagjt43KKVXUv8Los.ttf",
+        "regular": "http:\/\/fonts.gstatic.com\/s\/kumbhsans\/v1\/c4ml1n92AsfhuCq6tVsauodX-Kq-QUI.ttf"
+      },
+      "category": "sans-serif",
+      "kind": "webfonts#webfont"
+    }
+  },
+  "typography_h3": {
+    "font-family": "Kumbh Sans",
+    "google-weight": "700",
+    "font-weight": "700",
+    "font-style": "normal",
+    "subset": "latin",
+    "color": "",
+    "font-size": "28",
+    "line-height": "36",
+    "text-align": "left",
+    "word-spacing": "0",
+    "text-transform": "none",
+    "letter-spacing": "0",
+    "backup-font": "Arial",
+    "font-data": {
+      "family": "Kumbh Sans",
+      "variants": [
+        "300",
+        "regular",
+        "700"
+      ],
+      "subsets": [
+        "latin",
+        "latin-ext"
+      ],
+      "version": "v1",
+      "lastModified": "2020-09-02",
+      "files": {
+        "300": "http:\/\/fonts.gstatic.com\/s\/kumbhsans\/v1\/c4mm1n92AsfhuCq6tVsagit_3KKVXUv8Los.ttf",
+        "700": "http:\/\/fonts.gstatic.com\/s\/kumbhsans\/v1\/c4mm1n92AsfhuCq6tVsagjt43KKVXUv8Los.ttf",
+        "regular": "http:\/\/fonts.gstatic.com\/s\/kumbhsans\/v1\/c4ml1n92AsfhuCq6tVsauodX-Kq-QUI.ttf"
+      },
+      "category": "sans-serif",
+      "kind": "webfonts#webfont"
+    }
+  },
+  "typography_h4": {
+    "font-family": "Kumbh Sans",
+    "google-weight": "700",
+    "font-weight": "700",
+    "font-style": "normal",
+    "subset": "latin",
+    "color": "",
+    "font-size": "20",
+    "line-height": "28",
+    "text-align": "left",
+    "word-spacing": "0",
+    "text-transform": "none",
+    "letter-spacing": "0",
+    "backup-font": "Arial",
+    "font-data": {
+      "family": "Kumbh Sans",
+      "variants": [
+        "300",
+        "regular",
+        "700"
+      ],
+      "subsets": [
+        "latin",
+        "latin-ext"
+      ],
+      "version": "v1",
+      "lastModified": "2020-09-02",
+      "files": {
+        "300": "http:\/\/fonts.gstatic.com\/s\/kumbhsans\/v1\/c4mm1n92AsfhuCq6tVsagit_3KKVXUv8Los.ttf",
+        "700": "http:\/\/fonts.gstatic.com\/s\/kumbhsans\/v1\/c4mm1n92AsfhuCq6tVsagjt43KKVXUv8Los.ttf",
+        "regular": "http:\/\/fonts.gstatic.com\/s\/kumbhsans\/v1\/c4ml1n92AsfhuCq6tVsauodX-Kq-QUI.ttf"
+      },
+      "category": "sans-serif",
+      "kind": "webfonts#webfont"
+    }
+  },
+  "typography_h5": {
+    "font-family": "Poppins",
+    "google-weight": "500",
+    "font-weight": "500",
+    "font-style": "normal",
+    "subset": "latin",
+    "color": "",
+    "font-size": "18",
+    "line-height": "22",
+    "text-align": "left",
+    "word-spacing": "0",
+    "text-transform": "none",
+    "letter-spacing": "0",
+    "backup-font": "Arial",
+    "font-data": {
+      "family": "Kumbh Sans",
+      "variants": [
+        "300",
+        "regular",
+        "700"
+      ],
+      "subsets": [
+        "latin",
+        "latin-ext"
+      ],
+      "version": "v1",
+      "lastModified": "2020-09-02",
+      "files": {
+        "300": "http:\/\/fonts.gstatic.com\/s\/kumbhsans\/v1\/c4mm1n92AsfhuCq6tVsagit_3KKVXUv8Los.ttf",
+        "700": "http:\/\/fonts.gstatic.com\/s\/kumbhsans\/v1\/c4mm1n92AsfhuCq6tVsagjt43KKVXUv8Los.ttf",
+        "regular": "http:\/\/fonts.gstatic.com\/s\/kumbhsans\/v1\/c4ml1n92AsfhuCq6tVsauodX-Kq-QUI.ttf"
+      },
+      "category": "sans-serif",
+      "kind": "webfonts#webfont"
+    }
+  },
+  "typography_h6": {
+    "font-family": "Kumbh Sans",
+    "google-weight": "500",
+    "font-weight": "500",
+    "font-style": "normal",
+    "subset": "latin",
+    "color": "",
+    "font-size": "16",
+    "line-height": "20",
+    "text-align": "left",
+    "word-spacing": "0",
+    "text-transform": "none",
+    "letter-spacing": "0",
+    "backup-font": "Arial",
+    "font-data": {
+      "family": "Kumbh Sans",
+      "variants": [
+        "300",
+        "regular",
+        "700"
+      ],
+      "subsets": [
+        "latin",
+        "latin-ext"
+      ],
+      "version": "v1",
+      "lastModified": "2020-09-02",
+      "files": {
+        "300": "http:\/\/fonts.gstatic.com\/s\/kumbhsans\/v1\/c4mm1n92AsfhuCq6tVsagit_3KKVXUv8Los.ttf",
+        "700": "http:\/\/fonts.gstatic.com\/s\/kumbhsans\/v1\/c4mm1n92AsfhuCq6tVsagjt43KKVXUv8Los.ttf",
+        "regular": "http:\/\/fonts.gstatic.com\/s\/kumbhsans\/v1\/c4ml1n92AsfhuCq6tVsauodX-Kq-QUI.ttf"
+      },
+      "category": "sans-serif",
+      "kind": "webfonts#webfont"
+    }
+  },
+  "socials": [
+    {
+      "key": "facebook",
+      "value": "#"
+    },
+    {
+      "key": "twitter",
+      "value": "#"
+    },
+    {
+      "key": "instagram"
+    },
+    {
+      "key": "google-plus",
+      "value": "#"
+    },
+    {
+      "key": "vimeo"
+    },
+    {
+      "key": "linkedin"
+    },
+    {
+      "key": "behance"
+    },
+    {
+      "key": "dribbble"
+    },
+    {
+      "key": "flickr"
+    },
+    {
+      "key": "github"
+    },
+    {
+      "key": "pinterest"
+    },
+    {
+      "key": "yahoo"
+    },
+    {
+      "key": "delicious"
+    },
+    {
+      "key": "dropbox"
+    },
+    {
+      "key": "reddit"
+    },
+    {
+      "key": "soundcloud"
+    },
+    {
+      "key": "google"
+    },
+    {
+      "key": "skype"
+    },
+    {
+      "key": "youtube"
+    },
+    {
+      "key": "youtube-play"
+    },
+    {
+      "key": "tumblr"
+    },
+    {
+      "key": "whatsapp"
+    },
+    {
+      "key": "odnoklassniki"
+    },
+    {
+      "key": "vk"
+    },
+    {
+      "key": "xing"
+    }
+  ],
+  "custom_css": ""
+}
